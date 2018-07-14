@@ -1,0 +1,29 @@
+.card {
+    width: 15rem;
+    text-align: center;
+    padding-top: 20%;
+}
+#banner-1 {
+background-color: #FDC7C7;
+height: 200px;
+}
+#banner-2 {
+background-color: #FF8686;
+height: 200px;
+
+}
+#banner-3 {
+background-color: #FB4444;
+height: 200px;
+}
+#banner-4 {
+background-color: #FF0000;
+height: 200px;
+}
+.brand-statement {
+font-size: 18px;
+padding-top: 5%;
+}
+img {
+padding-top: 5%;
+}
